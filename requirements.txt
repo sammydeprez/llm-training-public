@@ -1,0 +1,4 @@
+openai
+azure-ai-documentintelligence
+langchain-text-splitters
+tiktoken
